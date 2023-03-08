@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.aupv9.diction.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aupv9.diction.MyBundle
 
 class MyProjectService(project: Project) {
 
